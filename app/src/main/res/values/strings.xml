@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Phone Call Info</string>
+    <string name="contact_name">Contact name:&#032;</string>
+    <string name="contact_phone">Phone number:&#032;</string>
+    <string name="call_date">Date:&#032;</string>
+    <string name="default_name">Contact does not have a name</string>
+    <string name="no_calls">No calls!</string>
+    <string name="outgoing">OUTGOING</string>
+    <string name="incoming">INCOMING</string>
+    <string name="missed">MISSED</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="permission_rationale">"Without your permission the app can't function. Are you sure you want to deny this permission"</string>
+    <string name="allow">"Allow"</string>
+    <string name="sure">"I am sure"</string>
+</resources>
